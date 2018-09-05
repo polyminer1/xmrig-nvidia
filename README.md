@@ -95,5 +95,3 @@ ec408bd837141bb8e0e7e6b4f76264255a3986f1e5a858400e6870bfad7e3214 xmrig-nvidia-2.
 ## Contacts
 * support@xmrig.com
 * [reddit](https://www.reddit.com/user/XMRig/)
-
-test
